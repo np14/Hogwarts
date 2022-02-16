@@ -1,4 +1,0 @@
-language: csharp
-dotnet: 6.0.2
-script:
- - dotnet restore
