@@ -21,7 +21,7 @@ namespace Test.Controllers
         public IActionResult GetEmployees()
         {
             var employees = _context.Employees.ToList();
-            return Ok(employees);
+            // return Ok(employees);
         }
 
         [HttpGet]
