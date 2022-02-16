@@ -1,4 +1,2 @@
 language: csharp
 solution: Test.sln
-script:
- - dotnet restore
